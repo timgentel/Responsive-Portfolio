@@ -94,7 +94,7 @@ p {
     height: auto;
     padding: 30px;
     padding-bottom: 40px;
-    margin-left: 5%;
+    margin-left: 25px;
     background: #ffffff;
     border-style: solid;
     border-color: #dddddd;
@@ -120,7 +120,7 @@ h3 {
     max-width: 960px;
     background: whitesmoke;
     margin-top:38px;
-    margin-left: 8%;
+    margin-left: 10.7638%;
     min-height: 100%;
     margin-bottom: 35px;
 }
